@@ -144,5 +144,11 @@ footer {
   li span:last-child {
     margin-top: 5px;
   }
+
+  .contact-section span img{
+    margin-top: auto;
+    width: 80px;
+    height: 80px;
+  }
 }
 
