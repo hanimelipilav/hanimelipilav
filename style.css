@@ -125,6 +125,11 @@ footer {
   header {
     font-size: 1.5em;
   }
+  
+  header .logo img {
+    width: 80px;
+    height: 80px;
+  }
 
   nav {
     flex-direction: column;
@@ -140,3 +145,4 @@ footer {
     margin-top: 5px;
   }
 }
+
